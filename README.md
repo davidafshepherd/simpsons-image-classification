@@ -1,5 +1,6 @@
 # Simpsons Image Classification
 - [simpsons_image_classification.ipynb](simpsons_image_classification.ipynb) contains the trained convolutional neural network.
+- [simpsons_dataset](simpsons_dataset) contains the dataset used to train and test the convolutional neural network.
 #
 ![image](https://github.com/user-attachments/assets/2787d49f-a9b5-472c-b744-0ecc760fb4a2)
 
